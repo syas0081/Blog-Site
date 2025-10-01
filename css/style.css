@@ -1,0 +1,85 @@
+body {
+    background-image: url('4861242.jpg');
+    background-size: cover; 
+    background-repeat: no-repeat; /* предотвращает повторение */
+    background-attachment: fixed; /* фиксирует фон при прокрутке */
+}
+
+h1 {
+    text-shadow: 2px 2px 4px rgb(0, 0, 0);
+}
+
+
+.my-button {
+    background-color: #0d6fee;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    font-size: 16px;
+    text-shadow: 2px 2px 4px rgb(255, 255, 255);
+    box-shadow: 0 0 0 2px white, 0 0 0 4px #3C82F8;
+    margin-left: 10px;
+}
+
+.my-button1 {
+    background-color: #0d6fee;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    font-size: 16px;
+    text-shadow: 2px 2px 4px rgb(255, 255, 255);
+    box-shadow: 0 0 0 2px white, 0 0 0 4px #3C82F8;
+    margin-left: 10px;
+}
+
+.my-button2 {
+    background-color: red;
+    color: white;
+    padding: 5px 10px;
+    border: navajowhite;
+    border-radius: 15px;
+    cursor: pointer;
+    font-size: 16px;
+    text-shadow: 2px 2px 4px rgb(255, 255, 255);
+    box-shadow: 0 0 0 2px white, 0 0 0 4px red;
+    margin-left: 10px;
+}
+
+.my-button3 {
+    background-color: #0d6fee;
+    color: white;
+    padding: 5px 10px;
+    border: navajowhite;
+    border-radius: 15px;
+    cursor: pointer;
+    font-size: 16px;
+    text-shadow: 2px 2px 4px rgb(255, 255, 255);
+    box-shadow: 0 0 0 2px white, 0 0 0 4px #3C82F8;
+    margin-left: 10px;
+}
+
+.table {
+    width: 100%;
+    margin-bottom: 20px;
+    border: 1px solid rgb(255, 255, 255);
+    border-collapse: collapse;
+    
+}
+
+.table th {
+    font-weight: bold;
+    padding: 5px;
+    background: rgb(255, 255, 255);
+    border: 1px solid grey;
+}
+
+.table td {
+    border: 1px solid grey;
+    padding: 5px;
+}
+
+
